@@ -61,4 +61,4 @@ I am looking forward to experimenting futher with training models. I plan to res
 
 7. **Tool Usage**:
    - When using `ner.manual`, first click the annotation before clicking the entity. This decreases mistakes and increases annotation velocity.
-   - Before navigating away from the page, ensure you click the `Save` icon, indicated by the floppy disk icon.
+   - Before navigating away from the page, ensure you click the `Save` icon, indicated by the floppy disk.
